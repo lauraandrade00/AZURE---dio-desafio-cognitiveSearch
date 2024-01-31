@@ -1,7 +1,7 @@
 # Desafio utilizando AI Search para indexação e consulta de dados
 
 ## Descrição da minha experiência
-Inicialmente fiz a criação do recurso de AI Seach Services e logo depois o do Storage Account, realizando as devidas configurações para a acessibilidade e adicionando os arquivos pertinentes ao container referentes à documentação oficial [arquivos aqui](ttps://aka.ms/mslearn-coffee-reviews), que se tratam de avaliações pessoais de café. Ao final dos uploads realizei alguns procedimentos para gerar o registro a ser consultado com palavras indexadas. Com isso pude extrair informações de forma mais eficiente e otimizada, buscando por palavras-chaves, de modo a personalizar e selecionar minhas necessidades. 
+Inicialmente fiz a criação do recurso de AI Seach Services e logo depois o do Storage Account, realizando as devidas configurações para a acessibilidade e adicionando os arquivos pertinentes ao container referentes à documentação oficial [arquivos aqui](https://aka.ms/mslearn-coffee-reviews), que se tratam de avaliações pessoais de café. Ao final dos uploads realizei alguns procedimentos para gerar o registro a ser consultado com palavras indexadas. Com isso pude extrair informações de forma mais eficiente e otimizada, buscando por palavras-chaves, de modo a personalizar e selecionar minhas necessidades. 
 
 ## Principais finalidades e benefícios do AI Search:
 
