@@ -1,4 +1,5 @@
 # Desafio utilizando AI Search para indexação e consulta de dados
+Perante fonte de dados fictícias, a busca por palavras-chaves ou sentimentos se torna ainda mais eficiente com a plataforma de consulta de dados da Azure. Diante de um grande volume de informações, a ferramenta possibilita uma análise personalizada e ainda mais seletiva quanto a critérios pré-estabelecidos.
 
 ## Descrição da minha experiência
 Inicialmente fiz a criação do recurso de AI Seach Services e logo depois o do Storage Account, realizando as devidas configurações para a acessibilidade e adicionando os arquivos pertinentes ao container referentes à documentação oficial [arquivos aqui](https://aka.ms/mslearn-coffee-reviews) - que se tratam de avaliações pessoais de café. Ao final dos uploads realizei alguns procedimentos para gerar o registro a ser consultado com palavras indexadas. Com isso pude extrair informações de forma mais eficiente e otimizada, buscando por palavras-chaves, de modo a personalizar e selecionar minhas necessidades. Por exemplo, nesse contexto, quis filtrar as localidades das quais gostaria de retirar as avaliações, bem como o tom de negatividade na crítica escrita.
